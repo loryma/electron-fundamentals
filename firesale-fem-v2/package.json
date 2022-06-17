@@ -5,7 +5,7 @@
     "productName": "Fire Sale",
     "main": "app/main.js",
     "dependencies": {
-        "electron": "^3.0.10",
+        "electron": "^15.5.5",
         "marked": "^0.5.2"
     },
     "devDependencies": {
